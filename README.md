@@ -39,7 +39,6 @@ Chatterly Compose is a feature-rich chat application built using Jetpack Compose
   - Built-in error handling for invalid or duplicate credentials.
     
 ![WhatsApp Image 2025-01-02 at 15 55 21_d0d8abc5](https://github.com/user-attachments/assets/cd5e1d80-fe58-40a9-ad00-ae4eafa71ffe)
-    
 ![WhatsApp Image 2025-01-02 at 15 54 53_ed57812d](https://github.com/user-attachments/assets/cdb1f797-a2c1-4abe-9261-7e663f7a7815)
 
 ### Real-Time Messaging

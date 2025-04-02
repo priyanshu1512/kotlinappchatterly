@@ -6,7 +6,7 @@ Chatterly Compose is a feature-rich chat application built using Jetpack Compose
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack...
 
 ### Frontend
 
